@@ -58,3 +58,10 @@ Release
 *.sdf
 Xcode/build.xcconfig
 /external
+external/aom
+external/dav1d
+external/libavif
+external/libjxl
+external/libpng
+external/libwebp
+external/zlib
