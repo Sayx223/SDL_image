@@ -57,3 +57,4 @@ Release
 *.suo
 *.sdf
 Xcode/build.xcconfig
+/external

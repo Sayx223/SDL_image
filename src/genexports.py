@@ -30,9 +30,9 @@ import dataclasses
 import json
 import logging
 import os
-from pathlib import Path
 import pprint
 import re
+from pathlib import Path
 
 RE_EXTERN_C = re.compile(r'.*extern[ "]*C[ "].*')
 RE_COMMENT_REMOVE_CONTENT = re.compile(r'\/\*.*\*/')
